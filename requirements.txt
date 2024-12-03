@@ -2,6 +2,6 @@ pip==24.3.1
 setuptools>=65.5.0
 wheel>=0.41.2
 streamlit==1.26.0
-numpy==1.24.3
-scikit-learn==1.2.2 --only-binary=:all:
+numpy==1.26.0  # Adjusted to a compatible version
+scikit-learn==1.2.2
 joblib==1.2.0
