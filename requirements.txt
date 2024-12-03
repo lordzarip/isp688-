@@ -1,4 +1,7 @@
-streamlit==1.26.0  # Ensure it's a stable version
-scikit-learn==1.2.2  # Match the model's version
+pip==24.3.1
+setuptools>=58.0.0
+wheel
+streamlit==1.26.0
+scikit-learn==1.2.2
 joblib==1.2.0
 numpy==1.24.3
